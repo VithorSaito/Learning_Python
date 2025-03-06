@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com base nos conhecimentos adquiridos durante a fo
 
 ## Tecnologias Utilizadas
 
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/) 🐍
 
 ## Licença
 
